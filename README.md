@@ -1,2 +1,2 @@
 # python-challenge
-Repository for python homework - bootcamp weeks 4 and 5
+Repository for python homework - UPenn bootcamp
